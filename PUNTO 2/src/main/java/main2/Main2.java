@@ -1,13 +1,12 @@
 package main2;
 
 import database2.*;
-import main1.SetUpDatabase1;
 import model2.*;
 import notificacionEmail.*;
 import ui2.MainView;
 
 
-public class Main {
+public class Main2 {
     public static final String CONNSTR = "jdbc:derby:memory:empleados;create=true";
     public static final String USERNAME = "app";
     public static final String PWD = "app";

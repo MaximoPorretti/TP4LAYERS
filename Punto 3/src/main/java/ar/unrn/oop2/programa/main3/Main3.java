@@ -8,7 +8,7 @@ import ar.unrn.oop2.programa.ui3.RadioCompetition;
 
 import javax.swing.*;
 
-public class Main {
+public class Main3 {
     public static void main(String[] args) {
         // Inicializar archivos de datos
         new SetUpDatabase("concursos.txt", "inscriptos.txt").inicializar();

@@ -2,13 +2,9 @@ package main1;
 import database1.JdbcRegistroDeVentas;
 import model1.DefaultEstacionDeServicio;
 import model1.EstacionDeServicio;
-import model1.TipoDeCombustible;
-import model1.Venta;
 import ui1.MainView1;
 
-import java.util.List;
-
-import static main2.Main.*;
+import static main2.Main2.*;
 
 public class Main1 {
 
